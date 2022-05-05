@@ -1,0 +1,17 @@
+num q = 8 - 2 ;
+num w = 8 + 2 ; 
+print sdad ;
+print w ;
+num e = 8 * 2 ;
+num r = 8 / 2 ;
+fnum t = 8 / 2 ;
+logic y =  5 > 4 ;
+logic u = 5 < 4 ;
+logic i = 5 == 4 ;
+logic o = 5 <= 4 ;
+logic p = 5 >= 4 ;
+logic a = ! 5 >= 4 ;
+logic s = 0 && 1 ;
+logic d = 1 || 0 ;
+num g = w + 5 ;
+logic k = ! i && p ;
